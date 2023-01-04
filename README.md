@@ -11,18 +11,13 @@
 
 <h1 align="center"> CV </h1>
 
-
 <p align="center">
-<a href="https://drive.google.com/file/d/1hZKJnC-dAue4_miVaXw7vjv3maPa6gOY/view" target="_blank" rel="noreferrer"> <img  align="center" src="https://drive.google.com/drive/u/0/my-drive" alt="android" width="100" height="150"/> </a>
+<a href="https://drive.google.com/file/d/1hZKJnC-dAue4_miVaXw7vjv3maPa6gOY/view?usp=sharing" target="_blank" rel="noreferrer"> <img  align="center" src="https://lh3.googleusercontent.com/pw/AM-JKLWSDx-mgBZ7wLXaSI4oG_UzR3N_AwKSbn2X3SrwTHitrAXzXF5yIRju1tHkoH-r6bBfglUSymZGuV8V2cU0Rp6m_X0cs2Yh2uPaWhMVFzNCjlthP_39awIKE122UytadQk94CTuewnOp-v84XkDPhUKAg=w471-h665-no" alt="android" width="100" height="150"/> </a>
 </p>
-
 
 <p align="left">
 <a href="https://www.linkedin.com/in/onyore/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/onyore/" height="30" width="40" /></a>
 </p>
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>

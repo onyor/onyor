@@ -11,9 +11,8 @@
 
 <h1 align="center"> CV </h1>
 
-
 <p align="center">
-<a href="https://drive.google.com/file/d/19Na3u-3mmuS46gDd3nGdkzxEz3v7_YcE/view?usp=sharing" target="_blank" rel="noreferrer"> <img  align="center" src="https://www.linkpicture.com/q/cv_2.png" alt="android" width="100" height="150"/> </a>
+<a href="https://drive.google.com/file/d/1hZKJnC-dAue4_miVaXw7vjv3maPa6gOY/view?usp=sharing" target="_blank" rel="noreferrer"> <img  align="center" src="https://www.linkpicture.com/q/cv_2.png" alt="android" width="100" height="150"/> </a>
 </p>
 
 <p align="left">

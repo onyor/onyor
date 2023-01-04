@@ -1,4 +1,4 @@
-<a href="https://codesandbox.io/s/onedayseeinfo-l20icm">![About Me](https://github.com/onyor/onyore/blob/master/onyore.gif)</a>
+<a href="https://codesandbox.io/s/onedayseeinfo-l20icm">![About Me](https://github.com/onyor/onyore/blob/master/onyor.gif)</a>
 
 <h1 align="center">Hi 👋, I'm Onur Yıldız</h1>
 <h3 align="center">A passionate Full Stack Developer from Turkey</h3>
